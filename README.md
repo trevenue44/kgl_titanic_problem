@@ -1,2 +1,2 @@
-# kgl_titanic_problem
-This repository contains my notebooks and processes for solving the kaggle titanic problem on machine learning.
+# Kaggle Titanic Problem
+The Problem: https://www.kaggle.com/competitions/titanic/overview
