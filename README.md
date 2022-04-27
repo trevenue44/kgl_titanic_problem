@@ -19,3 +19,4 @@ Test the model on the test set and submit solutions to kaggle for scoring
 - [ ] Done!
 
 ## Notes on Data Exploration
+- 891 Training examples
